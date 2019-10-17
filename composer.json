@@ -16,6 +16,8 @@
     }
   },
   "require-dev": {
+    "atoum/atoum": "3.3.0",
+    "php-coveralls/php-coveralls": "2.1.x-dev",
     "phpunit/phpunit": "5.7.27"
   },
   "autoload": {
